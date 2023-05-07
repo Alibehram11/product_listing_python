@@ -1,3 +1,5 @@
+
+print("Ali Behram Albayrak")
 ürün = {
     "ad":"",
     "fiyat":"",
